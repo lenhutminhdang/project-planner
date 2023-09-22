@@ -43,6 +43,6 @@ export default {
   cursor: pointer;
 }
 .filter-nav button.active {
-  color: #555;
+  color: #555555;
 }
 </style>
